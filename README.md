@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @PrabodhPandit
-- 👀 I’m interested in ... Data Science
-- 🌱 I’m currently learning ... the course of IBM Data Science
+- 👀 I’m interested in ... Aviation and Data Science
+-
+- 🌱 I have successfully completed the IBM Data Science Professional Certification
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... prabodhpandit1979@gmail.com
+- 📫 How to reach me ... prabodh.p.pandit@gmail.com
 
 <!---
 PrabodhPandit/PrabodhPandit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
